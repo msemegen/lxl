@@ -12,6 +12,7 @@
 
 # Vulkan supprt
 
+Vulkan version:
 * ✅  1.0
 * ❌  1.1
 * ❌  1.2
@@ -25,6 +26,12 @@ Instance extensions:
 
 Device extensions:
 * VK_KHR_swapchain
+
+# Toolchains
+
+* ✅ Microsoft Visual Studio 2022
+* ❌ Clang
+* ❌ GCC
 
 # CMake support
 
