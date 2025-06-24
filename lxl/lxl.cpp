@@ -12,7 +12,7 @@
 // limitations under the License.
 
 #define VMA_IMPLEMENTATION
-#include <lxl/lxl.hpp>
+#include <lxl/lxl.h>
 
 // std
 #include <cassert>
